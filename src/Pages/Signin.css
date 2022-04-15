@@ -1,0 +1,16 @@
+.form-container1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 10%;
+  padding-right: 12%;
+}
+.flex-item1 {
+  border: solid 1px;
+  width: 200%;
+  height: 100%;
+  padding: 10% 10% 10% 10%;
+  background-color: rgb(247, 255, 254);
+}
+body {
+  background-color: rgb(244, 250, 250);
+}
